@@ -1,4 +1,4 @@
-# Detecting implicit biases in large language corpora by 
+# Detecting implicit biases in large language corpora
 
 📍 virtual MZES, Mannheim
 
